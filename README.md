@@ -2,7 +2,6 @@
 I'm currently working on Automation testing
 <div align="center">
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amiin29&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amiin29&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiin29&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
