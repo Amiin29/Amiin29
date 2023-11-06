@@ -8,7 +8,7 @@ My goal is to ensure software quality through robust automated testing. Always s
     <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amiin29&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
   </a>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amiin29&bg_color=ffffff&color=000000&line=4f5af8&point=d7d5d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amiin29&bg_color=ffffff&color=000000&line=4f5af8&point=d7d5d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 </div>
 
 ## 🌐 Socials:
