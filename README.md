@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a QA Engineer specializing in automation with a passion for frameworks like Cypress, Selenium, and programming languages such as JavaScript, Python, and Java.<br>
-My goal is to ensure software quality through robust automated testing.Always seeking new challenges in the field of test automation.🚀
+My goal is to ensure software quality through robust automated testing. Always seeking new challenges in the field of test automation. 🚀🚀🚀
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
