@@ -9,6 +9,7 @@ My goal is to ensure software quality through robust automated testing. Always s
   </a>
   
 ![neuralpain github stats](https://github-readme-activity-graph.vercel.app/graph?username=Amiin29&theme=github-compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amiin29&bg_color=ffffff&color=6f82ae&line=4f5af8&point=b2aeae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ## 🌐 Socials:
