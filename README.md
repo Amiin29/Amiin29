@@ -18,7 +18,7 @@ You can provide multiple comma-separated values in the bg\_color option to rende
     &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
 *   Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amiin29\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004177723902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-miladi/)
