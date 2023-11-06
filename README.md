@@ -7,6 +7,7 @@ My goal is to ensure software quality through robust automated testing. Always s
   </a> <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amiin29&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
   </a>
+  
 ![neuralpain github stats](https://github-readme-activity-graph.vercel.app/graph?username=Amiin29&theme=github-compact)
 </div>
 
