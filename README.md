@@ -12,7 +12,7 @@ My goal is to ensure software quality through robust automated testing. Always s
 
 > **Warning**  
 
-![neuralpain github stats](https://github-readme-activity-graph.vercel.app/graph?username=neuralpain&theme=github-compact)
+![neuralpain github stats](https://github-readme-activity-graph.vercel.app/graph?username=Amiin29&theme=github-compact)
 
 </div>
 
